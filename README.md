@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Madhavan.
-- 👀 I’m interested in Coding...
-- 🌱 I’m currently learning Front End And Back End Developing...
-- 💞️ Nothing to say.
+- 👀 A software enthusiast.
+- 🌱 I’m a Full stack developer
+- 💞️ Feel Free to Code.
 
 - 📫 @never._.feel._.blue in Instagram , If you wanna reach me...
 
